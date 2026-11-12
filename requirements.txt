@@ -1,0 +1,10 @@
+duckdb==2.0.0
+joblib==1.6.0
+numpy==2.5.4
+openai==3.49.0
+pandas==3.1.1
+pyarrow==26.0.1
+python-dotenv==1.2.4
+scikit-learn==1.9.1
+sqlparse==0.6.1
+streamlit==1.67.0
